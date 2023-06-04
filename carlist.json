@@ -1,0 +1,8 @@
+[
+  {"name": "Camry", "brand": "Toyota", "color": "Серебристый", "year": 2022, "mileage": 15000},
+  {"name": "Civic", "brand": "Honda", "color": "Черный", "year": 2020, "mileage": 25000},
+  {"name": "Golf", "brand": "Volkswagen", "color": "Белый", "year": 2021, "mileage": 18000},
+  {"name": "3 Series", "brand": "BMW", "color": "Синий", "year": 2019, "mileage": 30000},
+  {"name": "E-Class", "brand": "Mercedes-Benz", "color": "Серый", "year": 2020, "mileage": 22000}
+,{"name":"Model 3","brand":"Tesla","color":"Черный","year":2020,"mileage":30000}
+]
